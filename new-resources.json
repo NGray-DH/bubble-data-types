@@ -203,6 +203,28 @@
                 "approved": true,
                 "published": true
             }
+        },
+        {
+            "_index": "bubble_listings_new_dev",
+            "_id": "1708252134470x729611263522731400",
+            "_score": 0.0,
+            "_source": {
+                "resource_type": "Resource - Course Material",
+                "made_by_aibuddy": true,
+                "name": "Devclub 1 - The One Where It Was The First One",
+                "long_description": "123",
+                "url": "https://www.youtube.com/watch?v=75OyzROGoww",
+                "created_by": "1683230768788x584114960812085000",
+                "created_date": "2024-02-18T10:28:54.470Z",
+                "favicon": "https://www.youtube.com/favicon.ico",
+                "icon": "https://www.youtube.com/favicon.ico",
+                "media_item_id": "75OyzROGoww",
+                "media_link": "https://www.youtube.com/watch?v=75OyzROGoww",
+                "modified_date": "2024-02-18T10:28:00.000Z",
+                "permission_level": "Public",
+                "approved": true,
+                "published": true
+            }
         }
     ],
     "time": 0.08383417129516602,
