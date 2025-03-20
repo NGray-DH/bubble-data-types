@@ -1,0 +1,53 @@
+{
+  "took": 0,
+  "timed_out": false,
+  "_shards": {
+    "total": 0,
+    "successful": 0,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 1,
+      "relation": "eq"
+    },
+    "max_score": 0,
+    "hits": [
+      {
+        "_index": "",
+        "_id": "",
+        "_score": 0,
+        "_source": {
+          "aggregated_votes": 0,
+          "approved": false,
+          "created_by": "",
+          "created_date": "",
+          "description": "",
+          "downvotes": 0,
+          "favicon": "",
+          "featured": false,
+          "hash": "",
+          "horizontal": "",
+          "icon": "",
+          "made_by_aibuddy": "",
+          "media_item_id": "",
+          "media_link": "",
+          "modified_date": "",
+          "name": "",
+          "organisation": "",
+          "parent": "",
+          "permission_level": "",
+          "picked_by_aibuddy": false,
+          "prompt": "",
+          "published": false,
+          "resource_type": "",
+          "tag": [],
+          "upvotes_count": 0,
+          "url": "",
+          "version": null
+        }
+      }
+    ]
+  }
+}
